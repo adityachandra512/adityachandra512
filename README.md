@@ -39,7 +39,7 @@
       <img src="adityachandra512/icons?i=c" alt="icon" height="65">
     </td>
     <td align="center" width="65">
-      <img src="https://skillicons.dev/icons?i=dj" alt="icon" height="65">
+      <img src="https://skillicons.dev/icons?i=django" alt="icon" height="65">
     </td>
   </tr>
   <tr>
