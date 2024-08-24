@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rajveerkhanduja.rajveerkhanduja" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=adityachandra512.adityachandra512" />
 - 👋 Hi, I’m @adityachandra512 <br/>
 - 👀 I’m interested in web/python development <br/>
 - 🌱 I’m currently learning Next.js. <br/>
