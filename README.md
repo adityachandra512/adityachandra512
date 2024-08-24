@@ -42,7 +42,7 @@
       <img src="https://skillicons.dev/icons?i=django" alt="icon" height="65">
     </td>
     <td align="center" width="65">
-      <img src="your-tkinter-icon-url" alt="Tkinter Icon" height="65">
+      <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter Notebook Icon" height="65">
     </td>
   </tr>
   <tr>
