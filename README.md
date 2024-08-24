@@ -42,7 +42,7 @@
       <img src="https://skillicons.dev/icons?i=django" alt="icon" height="65">
     </td>
     <td align="center" width="65">
-      <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter Notebook Icon" height="65">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png" alt="Jupyter Notebook Icon" height="65">
     </td>
   </tr>
   <tr>
