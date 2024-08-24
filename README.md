@@ -36,7 +36,7 @@
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" height="65">
     </td>
     <td align="center" width="65">
-      <img src="adityachandra512/icons?i=c" alt="icon" height="65">
+      <img src="https://skillicons.dev/icons?i=c" alt="C Icon" height="65">
     </td>
     <td align="center" width="65">
       <img src="https://skillicons.dev/icons?i=django" alt="icon" height="65">
