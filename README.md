@@ -4,7 +4,8 @@
 - 👀 I’m interested in **Full Stack Development / Generative AI**  
 - 🌱 I’m currently learning **Generative AI**  
 - 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: I believe there's no problem in life that can't be solved by exhaustively trying every possible solution  
+- ⚡ Fun fact: I believe there's no problem in life that can't be solved by exhaustively trying every possible solution
+- 🦾 Open for collaboration for Hackathon or Projects  
 
 <div> 
   <a href="mailto:adityachandra419@gmail.com">
