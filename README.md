@@ -24,7 +24,6 @@
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="65"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=express" alt="Express" height="65"></td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" height="65" /></td>
     <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" height="65" /></td>
     <td align="center"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" height="65"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=c" alt="C" height="65"></td>
@@ -34,7 +33,6 @@
   <tr>
     <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" height="65" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="65"></td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" height="65" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=next" alt="Next.js" height="65"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="65"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML" height="65"></td>
